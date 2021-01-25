@@ -13,4 +13,4 @@ npm install
 Iniciar la página.
 ```
 ng serve -o
-```# Coleccion-de-Heores
+```
